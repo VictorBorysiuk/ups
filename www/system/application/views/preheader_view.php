@@ -9,8 +9,8 @@
 
 
 <!-- Bootstrap -->
-    <link href="<?=base_url();?>css/bootstrap.min.css" rel="stylesheet">
-    <link href="<?=base_url();?>css/custom.css" rel="stylesheet">
+    <link href="<?=base_url();?>styles/bootstrap.min.css" rel="stylesheet">
+    <link href="<?=base_url();?>styles/custom.css" rel="stylesheet">
     <script src="<?=base_url();?>js/respond.js"></script>
 <?=smiley_js();?>
 
@@ -19,3 +19,4 @@
 <body> 
 <a name="top"></a>
 <div class="container">
+

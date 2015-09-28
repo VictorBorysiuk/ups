@@ -7,9 +7,9 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- Bootstrap -->
-	<link href="<?=base_url();?>styles/style.css" rel="stylesheet">
-    <link href="<?=base_url();?>css/bootstrap.min.css" rel="stylesheet">
-    <link href="<?=base_url();?>css/custom.css" rel="stylesheet">
+
+    <link href="<?=base_url();?>styles/bootstrap.min.css" rel="stylesheet">
+    <link href="<?=base_url();?>styles/custom.css" rel="stylesheet">
     <script src="<?=base_url();?>js/respond.js"></script>
 </head>
 
