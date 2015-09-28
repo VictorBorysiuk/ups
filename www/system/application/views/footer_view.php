@@ -1,26 +1,19 @@
-<div id = "footer">
-
-<table>
-<tr>
-<td>
-<a href="<?=base_url();?>">Главная</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>sections/articles">Статьи</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>sections/html">HTML</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>sections/php">PHP</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>sections/css">CSS</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>pages/about_me">Об авторе</a>&nbsp;&nbsp;
-<a href="<?=base_url();?>pages/contact">Контакты</a>
-</td>
-</tr>
-
-<tr>
-<td>
-Experim.ru 2010 | Дмитрий Науменко</td>
-</tr>
-</table>
-</div>
+<!-- row 4 -->
+    <footer class="row">
+        
+    </footer>
 
 </div>
+
+
+<!-- javascript -->
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script >
+    $(function () {
+      $('a.btn-info').tooltip()
+      });
+  </script>
 
 </body>
 </html>
